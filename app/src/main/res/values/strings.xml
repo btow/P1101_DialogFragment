@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">P1101_DialogFragment</string>
+    <string name="text_of_your_message">Text of your message</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="maybe">Maybe</string>
+    <string name="title_dialog">Title!</string>
+    <string name="dialog_1_">Dialog 1:</string>
+    <string name="dialog_2_">Dialog 2:</string>
+    <string name="dialog_1">Dialog 1</string>
+    <string name="dialog_2">Dialog 2</string>
+</resources>
